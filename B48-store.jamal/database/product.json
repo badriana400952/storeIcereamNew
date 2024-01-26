@@ -1,0 +1,10 @@
+{
+    "product": [
+      {
+        "harga": 20000,
+        "namaProduct": "Lemon rasa buah",
+        "image": "images",
+        "id": 1
+      }
+    ]
+  }

@@ -1,0 +1,42 @@
+[
+    "checkout" ,
+    {
+    "id": 1,
+    "user": {
+        "id": 3,
+        "firstName": "riswan",
+        "handphone": "0049984774",
+        "email": "riswan@gmail.com",
+        "password": "$2b$10$.ZxzmwvhMOdwzUFlj3qm6.mUXX/sli2dvtzgQa/oliv0aS3YbiPc."
+    },
+    "product": {
+        "id": 6,
+        "name": "Fore Cofi",
+        "price": 30000,
+        "image": "https://res.cloudinary.com/doykilt63/image/upload/v1699956287/p8s7dzw7hteqmrv7kmpd.png",
+        "user": {
+            "id": 3,
+            "firstName": "riswan",
+            "handphone": "0049984774",
+            "email": "riswan@gmail.com",
+            "password": "$2b$10$.ZxzmwvhMOdwzUFlj3qm6.mUXX/sli2dvtzgQa/oliv0aS3YbiPc."
+        },
+        "topings": [
+            {
+                "id": 3,
+                "name": "boba",
+                "price": 20000,
+                "image": "https://res.cloudinary.com/doykilt63/image/upload/v1699969599/yhnrnixbzvlh94itu48b.png"
+            }
+        ]
+    },
+    "toping": {
+        "id": 1,
+        "name": "Kiwi Popping Pearl",
+        "price": 5000,
+        "image": "https://res.cloudinary.com/doykilt63/image/upload/v1699000199/toping/Rectangle_9_5_angojg.png"
+    },
+    "quantity": 1,
+    "totalAmount": 50000
+}
+]
